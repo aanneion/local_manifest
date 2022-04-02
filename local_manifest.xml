@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/realme/r5x" name="aanneion/device_realme_r5x.git" remote="github" revision="awaken" />
+ <project path="device/realme/r5x" name="aanneion/device_realme_r5x.git" remote="github" revision="pixelos" />
  <project path="vendor/realme/r5x" name="aanneion/vendor_realme_r5x.git" remote="github" revision="twelve" />
  <project path="kernel/realme/r5x" name="aanneion/kernel_realme_r5x.git" remote="github" revision="devel" />
 
