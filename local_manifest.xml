@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote name="ds"
-                fetch="https://github.com/aanneion" />
-<remote name="patch"
-                fetch="https://github.com/LineageOS"  />
- 
- <project path="device/realme/r5x" name="aanneion/device_realme_r5x.git" remote="ds" revision="awaken" />
- <project path="vendor/realme/r5x" name="aanneion/vendor_realme_r5x.git" remote="ds" revision="twelve" />
- <project path="kernel/realme/r5x" name="aanneion/kernel_realme_r5x.git" remote="ds" revision="devel" />
- <project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library.git" remote="patch" revision="lineage-18.1" /> 
+ <project path="device/realme/r5x" name="aanneion/device_realme_r5x.git" remote="github" revision="awaken" />
+ <project path="vendor/realme/r5x" name="aanneion/vendor_realme_r5x.git" remote="github" revision="twelve" />
+ <project path="kernel/realme/r5x" name="aanneion/kernel_realme_r5x.git" remote="github" revision="devel" />
+ <project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library.git" remote="github" revision="lineage-18.1" />
  
 </manifest>
