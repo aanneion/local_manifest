@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
- <project path="device/xiaomi/spes" name="aanneion/android_device_xiaomi_spes.git" remote="github" revision="awaken" />
- <project path="vendor/xiaomi/spes" name="aanneion/android_vendor_xiaomi_spes.git" remote="gitlab" revision="12.1" />
- <project path="kernel/xiaomi/spes/header" name="aanneion/kernel_xiaomi_spes_header.git" remote="github" revision="12" />
+ <project path="device/realme/r5x" name="aanneion/device_realme_r5x.git" remote="github" revision="pixelos" />
+ <project path="vendor/realme/r5x" name="aanneion/vendor_realme_r5x.git" remote="github" revision="twelve" />
+ <project path="kernel/realme/r5x" name="aanneion/kernel_realme_r5x.git" remote="github" revision="devel" />
+ <project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library.git" remote="github" revision="lineage-18.1" />
  
 </manifest>
